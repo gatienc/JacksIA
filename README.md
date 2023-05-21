@@ -1,4 +1,4 @@
-# KnucklebonesIA
+# JacksIA
 disocver of reinforcement learning by training a model to play knuckelbones
 
 rules: In Jacks, each player has a board with 9 dice that must be filled in completely to finish the game. The value of a dice is the number of points you will earn by placing it on your board. The first player to fill the entire board ends the game, and the winner is the one with the most points.
